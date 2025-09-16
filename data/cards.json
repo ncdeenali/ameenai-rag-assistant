@@ -1,0 +1,139 @@
+{
+  "title": "Consumer",
+  "category": "Cards",
+  "url": "https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards",
+  "products": [
+    {
+      "name": "Visa Debit Card",
+      "url": "https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/card-type/visa-debit-card",
+      "description": "Stay connected to your accounts whether you want to withdraw, deposit cash or pay for your purchases with Arab Bank Visa Debit Card which is issued instantly when you open accounts with us. This card comes with a host of features.",
+      "features": [
+        "Manage your accounts and credit cards accounts when using any of our ATM services in Jordan (visit this link for more details about the ATM services: https://www.arabbank.jo/mainmenu/home/ways-to-bank/atm)",
+        "Smart Chip technology and Contactless payment for secure transactions (visit this link for more details about the Contactless payment technology: https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/contactless-payment-feature)",
+        "Daily cash withdrawal limit tailored to your needs",
+        "Local and international acceptance",
+        "No card issuance fees",
+        "Free supplementary cards available",
+        "Eligible for Direct Banking Services: Arabi Online (https://www.arabbank.jo/mainmenu/home/ways-to-bank/arabi-online), SMS Express, Arabi Mobile (https://www.arabbank.jo/mainmenu/home/ways-to-bank/arabi-mobile)"
+      ],
+      "application": {
+        "methods": [
+          "Call Customer Care Center (4600900)",
+          "Visit any of our branches: https://www.arabbank.jo/mainmenu/home/ways-to-bank/branches"
+        ]
+      },
+      "notes": [
+        "Terms and conditions apply"
+      ],
+      "assistant_notes": [
+        "Tip: This card is best for everyday use and gives you instant access to your money, most suitable for people with a stable job and salary."
+      ]
+    },
+    {
+      "name": "Shabab Visa Debit Card",
+      "url": "https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/card-type/shabab-visa-debit-card",
+      "description": "Stay connected to your accounts whether you want to withdraw, deposit cash or pay for your purchases with Shabab Visa Debit Card which is issued instantly when you open accounts with us. This card comes with a host of features.",
+      "features": [
+        "Manage your accounts and credit cards accounts when using any of our ATM services in Jordan (visit this link for more details about the ATM services: https://www.arabbank.jo/mainmenu/home/ways-to-bank/atm)",
+        "Smart Chip technology and Contactless payment for secure transactions (visit this link for more details about the Contactless payment technology: https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/contactless-payment-feature)",
+        "Daily cash withdrawal limit that meets your needs",
+        "Local and international acceptance",
+        "No card issuance fees",
+        "Free supplementary cards available",
+        "Eligible for Direct Banking Services: Arabi Online (https://www.arabbank.jo/mainmenu/home/ways-to-bank/arabi-online), SMS Express, Arabi Mobile (https://www.arabbank.jo/mainmenu/home/ways-to-bank/arabi-mobile)",
+        "Special Discounts and exclusive offers"
+      ],
+      "application": {
+        "methods": [
+          "Online Application Form: https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/card-type/shabab-visa-debit-card (Available under 'How to Apply')",
+          "Call Customer Care Center (4600900)",
+          "Visit any of our branches: https://www.arabbank.jo/mainmenu/home/ways-to-bank/branches"
+        ],
+        "requirements": [
+          "Valid national ID or valid passport with valid Resident visa (for Non-Jordanian)",
+          "Latest Salary/Income/Employment verification document",
+          "Bank may request additional documents as necessary"
+        ]
+      },
+      "notes": [
+        "Terms and conditions apply",
+        "www.visacemea.com for program details",
+        "Terms and conditions of VISA and partners apply"
+      ],
+      "assistant_notes": [
+        "Ideal for youth (up to 26 years of age): Comes with exclusive discounts and offers tailored for students and young professionals.",
+        "Bonus: No issuance fees and free supplementary cards make it great for managing group spending."
+      ]
+    },
+    {
+      "name": "Visa Gold Credit Card",
+      "url": "https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/card-type/visa-gold-credit-card",
+      "description": "Arab Bank Visa Gold Credit Card entitles you to a host of benefits designed to offer you the financial flexibility and purchasing power that meet your needs and lifestyle.",
+      "features": [
+        "Automatic enrollment to Arabi Points Rewards Program (visit the following link for more details: https://www.arabbank.jo/mainmenu/home/Consumer-Banking/arabi-points-program)",
+        "Smart Chip technology and Contactless payment for secure transactions (visit this link for more details about the Contactless payment technology: https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/contactless-payment-feature)",
+        "Visa Premium Privileges Program (hotel and car rental discounts)",
+        "Competitive interest rates",
+        "High cash advance limit",
+        "Flexible Easy Payment Plan options starting from 0% (visit this link for more details: https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/easy-payment-plan)",
+        "Multiple repayment options (5%, 25%, 50%, 100%)",
+        "Interest-free grace period on purchases up to 45 days",
+        "Optional Credit Shield insurance (visit this link for more details: https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/arab-bank-credit-shield)",
+        "Free SMS alerts for all transactions",
+        "Up to five supplementary cards",
+        "Manage account via Arabi Online and Arabi Mobile",
+        "Online purchase protection with Verified by Visa/MasterCard Secure Code",
+        "Pay utility bills via app",
+        "Cash transfer from credit card to personal accounts",
+        "Access to 24/7 Customer Care Center",
+        "Quick processing and worldwide acceptance"
+      ],
+      "application": {
+        "methods": [
+          "Online Application Form: https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/card-type/visa-gold-credit-card (Available under 'How to Apply')",
+          "Call Customer Care Center (4600900)",
+          "Visit any of our branches: https://www.arabbank.jo/mainmenu/home/ways-to-bank/branches"
+        ],
+        "requirements": [
+          "Valid national ID or valid passport with valid Resident visa (for Non-Jordanian)",
+          "Latest Salary/Income/Employment verification document",
+          "Bank may request additional documents based on case"
+        ]
+      },
+      "notes": [
+        "Terms and conditions apply",
+        "www.visacemea.com for more about Visa Privileges"
+      ],
+      "assistant_notes": [
+        "Best for: High-income individuals who travel or shop often and want flexible credit with rewards.",
+        "Offers premium benefits like Arabi Points, travel privileges, and installment plans."
+      ]
+    },
+    {
+      "name": "Arabi Points Visa Card",
+      "url": "https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/card-type/arabi-points-visa-card",
+      "description": "Use your Arabi Points balance for purchases and payments easily and conveniently or withdraw these points as cash from any Arab Bank ATM.",
+      "features": [
+        "No card issuance fees",
+        "Secure and convenient online shopping",
+        "Free SMS alerts",
+        "Instant issuance via Arabi Mobile and Arabi MobiCash apps",
+        "Card management through Arabi Mobile",
+        "Online purchase protection with Verified by Visa",
+        "Use on Visa-enabled websites, local POS machines, MobiCash and Arab Bank ATMs"
+      ],
+      "application": {
+        "methods": [
+          "Apply via Arabi Mobile / Arabi MobiCash (only available via the apps)"
+        ]
+      },
+      "notes": [
+        "Terms and conditions apply"
+      ],
+      "assistant_notes": [
+        "Best for: Loyal Arab Bank clients who earn Arabi Points and want a simple way to spend or cash them.",
+        "Ideal for users who prefer instant digital card issuance through the mobile app."
+      ]
+    }
+  ]
+}

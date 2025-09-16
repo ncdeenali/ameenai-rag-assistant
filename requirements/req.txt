@@ -1,0 +1,18 @@
+## LangChain
+langchain # core
+langchain-community # integrations (faiss, etc.)
+langchain-experimental # semantic chunker
+langchain-ollama # embedding
+langchain-openai # openai llm
+langchain-chroma # vector db
+
+## API Keys
+python-dotenv # load api keys from .env file
+
+## Token Count
+tiktoken # matches how openai models counts tokens
+
+## Deployment
+fastapi 
+uvicorn
+websockets
